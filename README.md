@@ -764,6 +764,9 @@ Sequelize es un ORM para Nodejs que te permitirá agilizar bastante tus desarrol
 
 ## Ejercicios
 ### Ejercicio 1 - BBDD Restaurante
+- [Javascript + Node.js - completa tu solución](./utils/ejercicioMongoDB/ejercicios_javascript_node/ejercicio_restaurantes_empleados/)
+
+- [Python - completa tu solución](./utils/ejercicioMongoDB/ejercicios_python/ejercicio1_bbdd_restaurante.ipynb)
 
 1. Mostrar todos los documentos de la colección restaurantes
 2. Mostrar los campos restaurant_id, nombre, distrito y cocina, pero excluya el campo _id para todos los documentos de la colección restaurantes
@@ -828,6 +831,10 @@ mongoimport --jsonArray --db=[base-de-datos] --collection=[colección] [ruta/al/
 
 
 ### Ejercicio 2 - Aggregate
+
+- [Javascript + Node.js - completa tu solución](./utils/ejercicioMongoDB/ejercicios_javascript_node/ejercicio_restaurantes_empleados/)
+
+- [Python - completa tu solución](./utils/ejercicioMongoDB/ejercicios_python/ejercicio2_aggregate_empleados.ipynb)
 
 Añadir los siguientes documentos a la colección empleados:
 
